@@ -1,0 +1,16 @@
+# 串口通信
+pyserial>=3.5
+
+# 数据存储与导出
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# tkinter桌面版（Python内置）
+# tkinter: $ pip install tkintertools (可选增强)
+
+# Web版本
+streamlit>=1.28.0
+plotly>=5.18.0
+
+# 跨平台支持
+platformdirs>=3.0.0
