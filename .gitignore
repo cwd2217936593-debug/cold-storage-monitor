@@ -1,0 +1,10 @@
+out/
+*.o
+*.axf
+*.d
+__pycache__/
+*.pyc
+monitor_status.txt
+verify.bin
+*.txt
+!src/*.c
